@@ -1,6 +1,6 @@
 {
   "name": "@npt/react-native-barcode-mask",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "license": "MIT",
   "author": "Chau Tran",
   "main": "dist/index.js",
